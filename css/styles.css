@@ -1,0 +1,35 @@
+:root {
+  --main-title-color: #ffffff;
+  --second-title-color: #212121;
+  --main-text-color: #757575;
+  --accent-color: #2196f3;
+  --secondary-button-color: #f5f4fa;
+  --secondary-links-color: #eeeeee;
+}
+
+body {
+  font-family: Roboto;
+}
+
+/*Портфолио*/
+.filtr {
+  background-color: #eeeeee;
+}
+
+.title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+  color: #212121;
+}
+
+.type {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  color: #757575;
+}
