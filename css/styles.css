@@ -8,9 +8,17 @@
 }
 
 body {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
+  color: #212121;
 }
 
+.list {
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+}
 /*Портфолио*/
 .filtr {
   background-color: #eeeeee;
