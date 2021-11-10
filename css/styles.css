@@ -11,9 +11,45 @@ body {
   font-family: "Roboto", sans-serif;
   color: #212121;
 }
+.page-header {
+}
 
+.site-nav a {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.143;
+  letter-spacing: 0.02em;
+}
+.site-nav a:hover,
+.site-nav a:focus {
+  color: #2196f3;
+}
 .list {
   list-style: none;
+}
+.contacts {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.143;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+.main-section {
+  background-color: #2f303a;
+}
+.main-title {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+  color: #ffffff;
 }
 
 button {
@@ -29,7 +65,7 @@ button {
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   color: #212121;
 }
 
@@ -38,6 +74,6 @@ button {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.875;
   color: #757575;
 }
